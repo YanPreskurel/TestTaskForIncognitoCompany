@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WxSHjTDMajM=",
+  "success": true,
+  "projectFilePath": "D:\\Commits\\TestTaskForIncognitoCompany\\Backend\\Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yan\\.nuget\\packages\\litedb\\5.0.21\\litedb.5.0.21.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
